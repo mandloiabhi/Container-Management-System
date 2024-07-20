@@ -1,6 +1,5 @@
 # Container-Management-System
-
-we developed a more complete container management tool like Docker. The tool will provide the following features:
+Developed a  complete container management tool like Docker. The tool will provide the following features:
 
 Ability to create full fledged debian container images
 Instantiating new containers from an image
