@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # CS695 Conductor that manages containers 
-# Author: <your-name>
+
 #
 echo -e "\e[1;32mCS695 Conductor that manages containers\e[0m"
 
